@@ -19,7 +19,7 @@ Utilizar e demonstrar o uso da propriedade useEffect do React
  Usando esse Hook, você diz ao React que o componente precisa fazer algo apenas depois da renderização. O React ira se lembrar da função que você passou (nos referiremos a ele como nosso “efeito”), e chamá-la depois que realizar as atualizações do DOM.
  
  ### Exemplo 
- 
+ site de exemplo --> [site](useeffect-hooks.netlify.app)
  
 
 
